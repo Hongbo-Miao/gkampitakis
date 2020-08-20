@@ -11,16 +11,8 @@ You can check some of utility libraries I ve published in [npmjs](https://www.np
 You can also find me here: 
 
 <p align=center>
-  <a href="https://www.instagram.com/g.kampitakis/"> <img height=60 src="https://raw.githubusercontent.com/gkampitakis/gkampitakis/master/media/instagram.svg"></a>
+<a href="https://www.instagram.com/g.kampitakis/"> <img height=60 src="https://raw.githubusercontent.com/gkampitakis/gkampitakis/master/media/instagram.svg"></a> &nbsp;&nbsp; <a href="https://twitter.com/g_kampitakis"> <img height=60 src="https://raw.githubusercontent.com/gkampitakis/gkampitakis/master/media/twitter.svg"></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/gkampitakis/"> <img height=60 src="https://raw.githubusercontent.com/gkampitakis/gkampitakis/master/media/linkedin.svg"></a>
 </p>
-
-<p align=center>
-  <a href="https://twitter.com/g_kampitakis"> <img height=60 src="https://raw.githubusercontent.com/gkampitakis/gkampitakis/master/media/twitter.svg"></a>
-</p>
-
-<p align=center>
-  <a href="https://www.linkedin.com/in/gkampitakis/"> <img height=60 src="https://raw.githubusercontent.com/gkampitakis/gkampitakis/master/media/linkedin.svg"></a>
-<p>
 
 
 <p style="font-size:10px">
