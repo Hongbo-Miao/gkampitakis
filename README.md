@@ -1,4 +1,4 @@
-# Hi there 👋. I am George
+# Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">. I am George
 
 ![visitors](https://git-visitors.gkampitakis.vercel.app/api/homepage)
 
